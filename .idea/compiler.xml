@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Thrift-Sample-Api" />
         <module name="Thrift-Sample-Client" />
         <module name="Thrift-Sample-Server" />
       </profile>

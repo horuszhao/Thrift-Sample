@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4327540-8cb3-452d-9a78-86547d3ea0be" name="Changes" comment="" />
+    <list default="true" id="e4327540-8cb3-452d-9a78-86547d3ea0be" name="Changes" comment=".idea">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thrift-Sample-Api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thrift-Sample-Api/src/main/java/org/example/thriftsample/api/calculator.thrift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/CalculatorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thrift-Sample-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thrift-Sample-Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +54,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ThriftSampleServerApplication.executor": "Debug",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/zhaoyunxiang/workspace/git/java/Thrift-Sample",
     "node.js.detected.package.eslint": "true",
@@ -51,6 +72,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Thrift-Sample-Api/src/main/java/org/example/thriftsample/api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.thriftsample.server" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,7 +100,18 @@
       <workItem from="1726565307185" duration="19000" />
       <workItem from="1726565328818" duration="20000" />
       <workItem from="1726565360725" duration="69000" />
+      <workItem from="1726565433287" duration="683000" />
+      <workItem from="1726989942241" duration="1417000" />
     </task>
+    <task id="LOCAL-00001" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1726565631491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726565631491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +127,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
