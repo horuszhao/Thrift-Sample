@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4327540-8cb3-452d-9a78-86547d3ea0be" name="Changes" comment="添加ThriftController">
+    <list default="true" id="e4327540-8cb3-452d-9a78-86547d3ea0be" name="Changes" comment="README.md">
+      <change afterPath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/CalculatorAsyncHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thrift-Sample-Client/src/main/java/org/example/thriftsample/client/ThriftController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thrift-Sample-Client/src/main/java/org/example/thriftsample/client/ThriftController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +53,8 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.ThriftSampleClientApplication.executor": "Run",
-    "Spring Boot.ThriftSampleServerApplication.executor": "Run",
+    "Spring Boot.ThriftSampleClientApplication.executor": "Debug",
+    "Spring Boot.ThriftSampleServerApplication.executor": "Debug",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
@@ -77,6 +79,9 @@
       <recent name="$PROJECT_DIR$/Thrift-Sample-Api/src/main/java/org/example/thriftsample/api" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.thriftsample.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.thriftsample.server" />
     </key>
   </component>
@@ -137,7 +142,7 @@
       <workItem from="1726565328818" duration="20000" />
       <workItem from="1726565360725" duration="69000" />
       <workItem from="1726565433287" duration="683000" />
-      <workItem from="1726989942241" duration="3546000" />
+      <workItem from="1726989942241" duration="9548000" />
     </task>
     <task id="LOCAL-00001" summary=".idea">
       <option name="closed" value="true" />
@@ -163,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727004006888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1727004524143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727004524143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,22 +197,7 @@
     <MESSAGE value=".idea" />
     <MESSAGE value="添加Calculator" />
     <MESSAGE value="添加ThriftController" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加ThriftController" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Thrift-Sample-Server/src/main/java/org/example/thriftsample/server/ThriftSampleServerApplication.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
